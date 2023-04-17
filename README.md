@@ -1,6 +1,6 @@
 # weather
 
-![Вид:]()
+![Вид:](./public/example.png)
 
 ## Recommended IDE Setup
 
